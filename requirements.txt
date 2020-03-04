@@ -1,0 +1,5 @@
+pandas
+gunicorn
+sklearn
+django
+django-heroku
